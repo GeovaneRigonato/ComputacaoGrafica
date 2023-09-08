@@ -1,3 +1,6 @@
+![image](https://github.com/GeovaneRigonato/ComputacaoGrafica/assets/82893740/26fd7fcf-b513-42de-8275-e2625860308f)
+
+
 # Demonstração de Trabalho com Three.js
 
 Este é um exemplo de código que utiliza a biblioteca Three.js para criar uma cena 3D interativa. A cena inclui um modelo 3D carregado a partir de um arquivo GLTF, objetos geométricos simples, texturas e animações.
