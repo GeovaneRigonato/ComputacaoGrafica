@@ -1,0 +1,17 @@
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.cobrinha {
+    border: 3px solid black;
+}
+
+.titulo {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: '#474747';
+}
