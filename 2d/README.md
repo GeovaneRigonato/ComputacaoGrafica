@@ -1,5 +1,5 @@
 # Jogo de Computação Gráfica 2D
-
+![Captura de tela de 2023-09-07 22-37-23](https://github.com/GeovaneRigonato/ComputacaoGrafica/assets/82893740/1b85c3ba-8f04-4610-a465-b420c0e46641)
 Este é um projeto de computação gráfica em 2D criado como parte de um trabalho acadêmico. O projeto consiste em um jogo simples em que uma cobra deve comer maçãs enquanto evita colidir consigo mesma ou com as bordas do campo de jogo.
 
 ## Recursos e Tecnologias Utilizadas
@@ -29,7 +29,8 @@ Este é um projeto de computação gráfica em 2D criado como parte de um trabal
 1. **Clone o Repositório:** Clone este repositório para sua máquina local usando o seguinte comando:
 
    ```bash
-   git clone https://github.com/seu-usuario/jogo-computacao-grafica-2d.git
+
+   git clone https://github.com/GeovaneRigonato/ComputacaoGrafica.git
 
 2. Abra o arquivo `index.html` juntamente com o liveServer(Extensão do VsCode)
 
